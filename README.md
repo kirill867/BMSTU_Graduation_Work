@@ -5,8 +5,8 @@
 
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/2dc10287-7dee-41f5-9250-9b60b598b442" alt="Рисунок 1. Моделирование полета снаряда" width="500">
-  <p><em>Рисунок 2. База данных</em></p>
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/2dc10287-7dee-41f5-9250-9b60b598b442" width="500">
+  <p><em>Рисунок 1. Моделирование полета снаряда</em></p>
 </div>
 
 
