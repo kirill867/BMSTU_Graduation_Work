@@ -30,7 +30,7 @@
 </div>
 
 
-<h1 align="center">Обратная задача</h1>
+<h3 align="center">Обратная задача</h3>
 
 <div align="center">
   <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/a465a29a-d177-435f-b746-db5e5c8c1ee3" width="500">
