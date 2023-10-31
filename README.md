@@ -21,8 +21,14 @@
 </div>
 
 
+
+
+
+
 <div align="center">
   <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/45f76b3b-615b-4c34-a905-eb4677e763f7" width="500">
   <p><em>Рисунок 3. Полученные данные полета (прямая задача)</em></p>
 </div>
+
+
 
