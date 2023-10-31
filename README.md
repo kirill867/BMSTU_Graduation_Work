@@ -36,15 +36,16 @@
 <h3 align="center">Обратная задача</h3>
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/a465a29a-d177-435f-b746-db5e5c8c1ee3" width="500">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/a465a29a-d177-435f-b746-db5e5c8c1ee3" width="300">
   <p><em>Рисунок 5. Начальные точки</em></p>
 </div>
 
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/20c172d9-9d1c-42b1-b553-ba5949fa906d" width="500">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/4212e114-8fca-4ef2-aca9-9cdbc4fe0d39" width="500">
   <p><em>Рисунок 6. Начальные данные полета</em></p>
 </div>
+
 
 <div align="center">
   <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/1876dae9-95d0-4d2a-af5c-5a8f612031b8" width="500">
@@ -52,8 +53,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/276128e5-3294-4548-8431-cf18a5921a77" width="500">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/276128e5-3294-4548-8431-cf18a5921a77" width="700">
   <p><em>Рисунок 8. Вид базы данных для обратной задачи</em></p>
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/493f010f-0cb6-4200-bd80-07a8b2be60fd" width="500">
+  <p><em>Рисунок 9. Восстановленная траектория полета</em></p>
 </div>
 
 
