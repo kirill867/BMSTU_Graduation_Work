@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <text="Рисунок 2. База данны" width="500">
+  <text="Рисунок 2. База данны">
 </div>
 
 <div align="center">
