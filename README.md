@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/45f76b3b-615b-4c34-a905-eb4677e763f7" width="700">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/45f76b3b-615b-4c34-a905-eb4677e763f7" width="600">
   <p><em>Рисунок 4. Полученные данные полета</em></p>
 </div>
 
