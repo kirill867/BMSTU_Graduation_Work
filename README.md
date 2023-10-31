@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/258afad5-60a0-48f3-bb14-5441972b60f8" width="300">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/258afad5-60a0-48f3-bb14-5441972b60f8" width="400">
   <p><em>Рисунок 2. Таблица с параметрами полета пушечного ядра</em></p>
 </div>
 
