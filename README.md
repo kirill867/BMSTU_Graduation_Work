@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img text="Рисунок 1. Моделирование полета снаряда" width="500">
+  <text="Рисунок 1. Моделирование полета снаряда" width="500">
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img text="Рисунок 2. База данны" width="500">
+  <text="Рисунок 2. База данны" width="500">
 </div>
 
 <div align="center">
@@ -25,5 +25,5 @@
 </div>
 
 <div align="center">
-  <img text="Рисунок 3. Полученные данные полета" width="500">
+  <text="Рисунок 3. Полученные данные полета" width="500">
 </div>
