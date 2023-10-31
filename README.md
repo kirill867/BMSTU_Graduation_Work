@@ -36,7 +36,7 @@
 <h3 align="center">Обратная задача</h3>
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/a465a29a-d177-435f-b746-db5e5c8c1ee3" width="300">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/a465a29a-d177-435f-b746-db5e5c8c1ee3" width="700">
   <p><em>Рисунок 5. Начальные точки</em></p>
 </div>
 
@@ -48,7 +48,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/1876dae9-95d0-4d2a-af5c-5a8f612031b8" width="500">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/1876dae9-95d0-4d2a-af5c-5a8f612031b8" width="700">
   <p><em>Рисунок 7. Вычисленные данные полета</em></p>
 </div>
 
