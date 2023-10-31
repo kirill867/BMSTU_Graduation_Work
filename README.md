@@ -42,18 +42,18 @@
 
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/4212e114-8fca-4ef2-aca9-9cdbc4fe0d39" width="500">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/4212e114-8fca-4ef2-aca9-9cdbc4fe0d39" width="300">
   <p><em>Рисунок 6. Начальные данные полета</em></p>
 </div>
 
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/1876dae9-95d0-4d2a-af5c-5a8f612031b8" width="700">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/1876dae9-95d0-4d2a-af5c-5a8f612031b8" width="900">
   <p><em>Рисунок 7. Вычисленные данные полета</em></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/276128e5-3294-4548-8431-cf18a5921a77" width="700">
+  <img src="https://github.com/kirill867/BMSTU_graduation_work/assets/95954756/276128e5-3294-4548-8431-cf18a5921a77" width="500">
   <p><em>Рисунок 8. Вид базы данных для обратной задачи</em></p>
 </div>
 
